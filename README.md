@@ -13,7 +13,7 @@ FrameWorks - Any FrameWorks Kits
 |---|---|---|---|---|---|---|
 |fsociety|fsociety|PeneTestFrameWorks|https://github.com/Manisso/fsociety|git|python,git|A Penetration Testing Framework, you will have every script that a hacker needs. Works with Python 2.|
 |Astra|Astra|PeneTestFrameWorks|https://github.com/flipkart-incubator/Astra|git|python,git|REST API penetration testing is complex due to continuous changes in existing APIs and newly added APIs.|
-|Nettacker|Nettacker|PeneTestFrameWorks|https://github.com/OWASP/Nettacker|git|python,git|REST API penetration testing is complex due to continuous changes in existing APIs and newly added APIs.|
+|Nettacker|Nettacker|PeneTestFrameWorks|https://github.com/OWASP/Nettacker|git|python,git|OWASP Nettacker project is created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information.|
 
   
 </div>
