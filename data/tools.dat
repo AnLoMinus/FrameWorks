@@ -14,3 +14,7 @@ pentestingframework|pntesting-framework|PeneTestFrameWorks|https://github.com/ab
 TheXFramework|TheXFramework|PeneTestFrameWorks|https://github.com/r3dxpl0it/TheXFramework|git|python,lua,node|Network/WebApplication Information Gathering, Enumeration and Vulnerability Scanning (Under Development)|
 FrameDomain|FrameDomain|PeneTestFrameWorks|https://github.com/AngelSecurityTeam/FrameDomain|git|python,git|FrameDomain Framework - subdomains enumeration tool for penetration testers|
 DracOS_VENOMIZER|DracOS_VENOMIZER|PeneTestFrameWorks|https://github.com/faizH3/DracOS_VENOMIZER|git|git,python|Penetration Tools List|
+GHunt|GHunt|OsintFrameWorks|https://github.com/mxrch/GHunt|git|git,python|🕵️‍♂️ Offensive Google framework.
+PhoneInfoga|PhoneInfoga|OsintFrameWorks|https://github.com/sundowndev/phoneinfoga|git|go,git|PhoneInfoga is one of the most advanced tools to scan international phone numbers.|
+Scrummage|Scrummage|OsintFrameWorks|https://github.com/matamorphosis/Scrummage|git|git,node,python|
+operative-framework|operative-framework|OsintFrameWorks|https://github.com/graniet/operative-framework|git|go,node,git|operative framework is a digital investigation framework, you can interact with multiple targets, execute multiple modules, create links with target, export rapport to PDF file, add note to target or results, interact with RESTFul API, write your own modules.|
